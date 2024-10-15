@@ -9,7 +9,7 @@
 - You're not perfect and that's a good thing. You are unique and that is much better than being perfect.
 --------------------------------------------------------------------------------------------------------------------
 - 👋 Hey ihr Lieben, ich bin Yoshy.
-- 👀 Ich interessiere mich für Gaming und Anwendungsentwicklung.
+- 👀 Ich interessiere mich für Gaming- und Anwendungsentwicklung.
 - 🌱 Aktuell bin ich in einer Umschulung als IT-Anwendungsentwickler und lerne mit Python.
 -   Privat setze ich mich zusätzlich mit GDScript und C# auseinander und baue aktuell auch eine eigene Internetseite.
 - 💞️ Ich suche aktuell noch einen Praktikumsplatz für die Umschulung in Norddeutschland, Niedersachsen.
