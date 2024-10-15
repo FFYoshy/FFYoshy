@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hobbies are streaming and playing the keyboard.
 - You're not perfect and that's a good thing. You are unique and that is much better than being perfect.
-
+--------------------------------------------------------------------------------------------------------------------
 - 👋 Hey ihr Lieben, ich bin Yoshy.
 - 👀 Ich interessiere mich für Gaming und Anwendungsentwicklung.
 - 🌱 Aktuell bin ich in einer Umschulung als IT-Anwendungsentwickler und lerne mit Python.
