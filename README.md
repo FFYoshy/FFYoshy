@@ -2,7 +2,6 @@
 - 👀 I’m interested in game and software development.
 - 🌱 I am currently retraining as an IT application developer and learning Python.
     - In my private life, I also work with GDScript and C# and currently building my own website.
-- 💞️ I’m looking for an work placement in north germany, Lower Saxony.
 - 📫 How to reach me per Email: ffyoshy@yahoo.com .
 - 😄 Pronouns: He/Him
 - ⚡ My hobbies are streaming and playing the keyboard.
@@ -12,7 +11,6 @@
 - 👀 Ich interessiere mich für Gaming- und Anwendungsentwicklung.
 - 🌱 Aktuell bin ich in einer Umschulung als IT-Anwendungsentwickler und lerne mit Python.
     - Privat setze ich mich zusätzlich mit GDScript und C# auseinander und baue aktuell auch eine eigene Internetseite.
-- 💞️ Ich suche aktuell noch einen Praktikumsplatz für die Umschulung in Norddeutschland, Niedersachsen.
 - 📫 Erreichen könnt ihr mich per E-Mail unter ffyoshy@yahoo.com
 - 😄 Geschlecht männlich.
 - ⚡ Meine Hobbies sind Streaming und Keyboard spielen.
